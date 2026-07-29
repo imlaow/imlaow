@@ -13,7 +13,7 @@
 - 🌱 Also picking up **Python** in PyCharm, one lazy step at a time
 - 💡 Not fluent in any language yet — still figuring out what clicks
 - 📺 Huge fan of **邪神ちゃんドロップキック（邪神酱与厨二病少女）** — 邪神酱 is my avatar, she's just so gloriously bratty and dumb in the best way
-- 📫 Reach me at: <!-- put your contact info here -->
+- 📫 Reach me at: imlaow@laow.dev or yuchenweng2010@gmail.com<!-- put your contact info here -->
 
 ### 🛠️ Tech Stack
 
