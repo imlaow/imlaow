@@ -12,7 +12,7 @@
 - 🤖 I build projects with the help of AI coding agents like **Claude Code** — learning by doing
 - 🌱 Also picking up **Python** in PyCharm, one lazy step at a time
 - 💡 Not fluent in any language yet — still figuring out what clicks
-- 📫 Reach me at: <!-- put your contact info here -->
+- 📫 Reach me at: imlaow@laow.dev or yuchenweng2010@gmail.com<!-- put your contact info here -->
 
 ### 🛠️ Tech Stack
 
