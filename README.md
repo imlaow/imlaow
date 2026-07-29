@@ -12,6 +12,7 @@
 - 🤖 I build projects with the help of AI coding agents like **Claude Code** — learning by doing
 - 🌱 Also picking up **Python** in PyCharm, one lazy step at a time
 - 💡 Not fluent in any language yet — still figuring out what clicks
+- 📺 Huge fan of **邪神ちゃんドロップキック（邪神酱与厨二病少女）** — 邪神酱 is literally my avatar because she's just too cute
 - 📫 Reach me at: <!-- put your contact info here -->
 
 ### 🛠️ Tech Stack
